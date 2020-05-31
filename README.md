@@ -1,4 +1,5 @@
 # DeepLoc-VAE
+Semi-supervised Classification of Protein Subcellular Localization Patterns in Microscopy Images with Variational Autoencoders
 
 Author: Shadi Zabad, University of Toronto
 
